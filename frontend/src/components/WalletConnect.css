@@ -1,0 +1,10 @@
+.wallet-connect {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.wallet-connect button {
+  padding: 0.5rem 1rem !important;
+  border-radius: 0.375rem !important;
+  font-weight: 600 !important;
+}
